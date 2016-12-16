@@ -1,1 +1,3 @@
 # Fruitvale-TOD-Case-Study
+
+This repository contains code for a case study on ridership changes before and after the implementation of transit-oriented development (TOD) at the Fruitvale BART station. Python notebooks that import and analyze BART ridership data can be found in the "Python Notebooks" folder. Raw data comes from BART station exit data at http://www.bart.gov/about/reports/ridership. The "Case Study" folder shows the tex code and final pdf output of the case study write-up. 
